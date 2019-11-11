@@ -35,7 +35,7 @@ public class MainActivity extends AppCompatActivity {
     List<Product> products;
 
     DatabaseReference databaseProducts;
-
+//ye
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
