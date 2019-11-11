@@ -17,7 +17,6 @@ public class ProductTest {
     }
 
     @Test
-    @Test
     public void checkProductPrice() {
         // I am making this test to fail
         Product aProduct = new Product("1", "DELL MONITOR", 180);
